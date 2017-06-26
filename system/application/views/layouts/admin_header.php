@@ -56,8 +56,8 @@
   var global_url = '<?php echo $this->config->item("global_url")?>';
   SITE_URL = "<?php echo base_url(); ?>";
 
-  document.oncontextmenu = function(){return false;};
-  document.onselectstart= function() {return false;}; 
+  // document.oncontextmenu = function(){return false;};
+  // document.onselectstart= function() {return false;}; 
 
 </script>
 </head>

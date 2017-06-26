@@ -33,10 +33,10 @@
 <!-- END THEME STYLES -->
 <link rel="shortcut icon" href="favicon.ico"/>
 </head>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 	document.oncontextmenu = function(){return false;};
 	document.onselectstart= function() {return false;}; 
-</script>
+</script> -->
 <!-- END HEAD -->
 <!-- BEGIN BODY -->
 <!-- DOC: Apply "page-header-fixed-mobile" and "page-footer-fixed-mobile" class to body element to force fixed header or footer in mobile devices -->
